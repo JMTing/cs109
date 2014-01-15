@@ -1,0 +1,100 @@
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	19	20.75	20.75	816	Winter Juniors (SCY)	2013 Men's Ivy Swimming & Divi	US	UN	3/7/2013
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	18	21.25	21.25	767	AAAA	2012 NC AP YMCA Nationals SC Championships	NJ	WFY	4/2/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	18	21.29	21.29	763	AAAA	2012 MA AP NJ YMCA 13 & Over State Champs	NJ	WFY	3/9/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	18	21.30	21.30	762	AAAA	2012 MA AP NJ YMCA 13 & Over State Champs	NJ	WFY	3/9/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	17	21.30	21.30	778	AAAA	2011 NJ Holiday Classic XXV	NJ	WFY	12/9/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	17	21.32	21.32	776	AAAA	2011 NJ Holiday Classic XXV	NJ	WFY	12/9/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	18	21.33	21.33	759	AAAA	2012 NC AP YMCA Nationals SC Championships	NJ	WFY	4/2/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	18	21.44	21.44	749	AAAA	2012 NC AP YMCA Nationals SC Championships	NJ	WFY	4/2/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	16	21.69	21.69	767	AAAA	2010 NJ HOLIDAY CLASSIC XXIV	NJ	WFY	12/10/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	17	21.71	21.71	738	AAA	2011 YMCA Nationals Short Cour	NJ	WFY	4/5/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	18	21.74	21.74	720	AAA	2012 PV AP Y Winterfest Meet	NJ	WFY	1/13/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	18	21.74	21.74	720	AAA	2012 PV AP Y Winterfest Meet	NJ	WFY	1/13/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	17	21.80	21.80	730	AAA	2011 MA AP NJ YMCA 13 & O States	NJ	WFY	3/11/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	16	22.00	22.00	737	AAAA	2010 MA AP NJ YMCA 13&O; State Champs	NJ	WFY	3/12/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	16	22.03	22.03	734	AAAA	2010 NJ HOLIDAY CLASSIC XXIV	NJ	WFY	12/10/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	17	22.12	22.12	699	AAA	2011 MA AP NJ YMCA 13 & O States	NJ	WFY	3/11/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	18	22.12	22.12	683	AAA	2012 PV AP Y Winterfest Meet	NJ	WFY	1/13/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	18	22.12	22.12	683	AAA	2012 PV AP Y Winterfest Meet	NJ	WFY	1/13/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	16	22.14	22.14	724	AAAA	2010 PV AP Winterfest Y Meet	NJ	WFY	1/16/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	17	22.16	22.16	695	AAA	2011 NJ Fall Festival of XCellence	NJ	WFY	11/18/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	16	22.20	22.20	718	AAA	2010 NJ  Junior Olympics	NJ	WFY	3/19/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	16	22.24	22.24	715	AAA	2010 PV AP Winterfest Y Meet	NJ	WFY	1/16/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	16	22.26	22.26	713	AAA	2010 MA AP NJ YMCA 13&O; State Champs	NJ	WFY	3/12/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	16	22.26	22.26	713	AAA	2010 NJ  Junior Olympics	NJ	WFY	3/19/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	16	22.29	22.29	710	AAA	2010  YMCA Nationals Short Cou	NJ	WFY	4/7/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	17	22.34	22.34	678	AAA	2011 NJ Junior Olympics	NJ	WFY	3/18/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	15	22.36	22.36	756	AAA	2009 NJ HOLIDAY CLASSIC XXIII	NJ	WFY	12/11/2009
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	16	22.58r	22.58	683	AAA	2010  YMCA Nationals Short Cou	NJ	WFY	4/7/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	14	22.71	22.71	766	AAAA	2008 NJ HOLIDAY CLASSIC XXII	NJ	NJBL	12/12/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	16	22.75r	22.75	667	AAA	2010 MA AP NJ YMCA 13&O; State Champs	NJ	WFY	3/12/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	14	22.94	22.94	745	AAAA	2008 NJ HOLIDAY CLASSIC XXII	NJ	NJBL	12/12/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	15	23.08	23.08	690	AAA	2009 NJ Junior Olympics	NJ	NJBL	3/20/2009
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	14	23.75	23.75	673	AAA	2008 NJ HALL-O-WEEN 	NJ	NJBL	10/25/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	14	24.61	24.61	597	AA	2008 NJ Junior Age Group Champs 	NJ	NJBL	2/15/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	13	24.95	24.95	650	AA	2007 MR NYSA Holiday Madness	NJ	NJBL	12/7/2007
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	14	24.99	24.99	565	AA	2008 NJ Princeton Invite	NJ	NJBL	1/19/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	14	24.99	24.99	565	AA	2008 NJ Princeton Invite	NJ	NJBL	1/19/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	14	25.08	25.08	557	AA	2008 NJ Junior Age Group Champs 	NJ	NJBL	2/15/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	14	25.18	25.18	548	AA	2008 NJ TYR WINTERFEST 	NJ	NJBL	1/5/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	13	25.30	25.30	621	AA	2007 NJ HALL-O-WEEN 	NJ	NJBL	10/27/2007
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	14	25.43r	25.43	527	AA	2008 NJ Princeton Invite	NJ	NJBL	1/19/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	14	25.43r	25.43	527	AA	2008 NJ Princeton Invite	NJ	NJBL	1/19/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	13	25.65	25.65	591	A	2007 MR Empire/Sharks	NJ	NJBL	11/3/2007
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	13	25.72r	25.72	586	A	2007 NJ HALL-O-WEEN 	NJ	NJBL	10/27/2007
+Taylor Adams	Wyckoff Ymca	2016	Cornell	50 FR	SCY	13	26.45	26.45	526	A	2007 NJ 13/Over Silver Bronze	NJ	NJBL	3/10/2007
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	19	45.81	45.81	793	AAAA	2013 Men's Ivy Swimming & Divi	US	UN	3/7/2013
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	18	46.29	46.29	767	AAAA	2012 MA AP NJ YMCA 13 & Over State Champs	NJ	WFY	3/9/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	18	46.33	46.33	765	AAAA	2012 NC AP YMCA Nationals SC Championships	NJ	WFY	4/2/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	17	46.33	46.33	787	AAAA	2011 NJ Holiday Classic XXV	NJ	WFY	12/9/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	18	46.56	46.56	753	AAAA	2012 NC AP YMCA Nationals SC Championships	NJ	WFY	4/2/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	18	46.84	46.84	739	AAAA	2012 MA AP NJ YMCA 13 & Over State Champs	NJ	WFY	3/9/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	17	47.05	47.05	750	AAA	2011 NJ Holiday Classic XXV	NJ	WFY	12/9/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	17	47.31	47.31	737	AAA	2011 MA AP NJ YMCA 13 & O States	NJ	WFY	3/11/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	17	47.33	47.33	736	AAA	2011 YMCA Nationals Short Cour	NJ	WFY	4/5/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	17	47.36	47.36	734	AAA	2011 MA AP NJ YMCA 13 & O States	NJ	WFY	3/11/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	18	47.37	47.37	712	AAA	2012 PV AP Y Winterfest Meet	NJ	WFY	1/13/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	18	47.37	47.37	712	AAA	2012 PV AP Y Winterfest Meet	NJ	WFY	1/13/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	17	47.59	47.59	723	AAA	2011 PV AP Y Winterfest Meet	NJ	WFY	1/8/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	16	47.89	47.89	738	AAAA	2010 MA AP NJ YMCA 13&O; State Champs	NJ	WFY	3/12/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	18	47.92	47.92	684	AAA	2012 PV AP Y Winterfest Meet	NJ	WFY	1/13/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	18	47.92	47.92	684	AAA	2012 PV AP Y Winterfest Meet	NJ	WFY	1/13/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	16	48.02	48.02	731	AAAA	2010  YMCA Nationals Short Cou	NJ	WFY	4/7/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	16	48.10	48.10	727	AAAA	2010 NJ HOLIDAY CLASSIC XXIV	NJ	WFY	12/10/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	16	48.20	48.20	722	AAAA	2010 NJ HOLIDAY CLASSIC XXIV	NJ	WFY	12/10/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	16	48.20r	48.20	722	AAAA	2010  YMCA Nationals Short Cou	NJ	WFY	4/7/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	16	48.41	48.41	712	AAA	2010 MA AP NJ YMCA 13&O; State Champs	NJ	WFY	3/12/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	17	48.47	48.47	679	AAA	2011 NJ Fall Festival of XCellence	NJ	WFY	11/18/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	17	48.52	48.52	676	AAA	2011 PV AP Y Winterfest Meet	NJ	WFY	1/8/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	16	48.65	48.65	700	AAA	2010 NJ  Junior Olympics	NJ	WFY	3/19/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	16	48.89	48.89	688	AAA	2010 PV AP Winterfest Y Meet	NJ	WFY	1/16/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	15	48.91	48.91	740	AAA	2009 NJ HOLIDAY CLASSIC XXIII	NJ	WFY	12/11/2009
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	14	49.05	49.05	775	AAAA	2008 NJ HOLIDAY CLASSIC XXII	NJ	NJBL	12/12/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	16	49.05	49.05	680	AAA	2010 NJ  Junior Olympics	NJ	WFY	3/19/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	16	49.29	49.29	668	AAA	2010 PV AP Winterfest Y Meet	NJ	WFY	1/16/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	14	49.81	49.81	738	AAAA	2008 NJ HOLIDAY CLASSIC XXII	NJ	NJBL	12/12/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	15	50.47	50.47	664	AAA	2009 NJ Junior Olympics	NJ	NJBL	3/20/2009
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	14	52.53	52.53	610	AAA	2008 NJ HALL-O-WEEN 	NJ	NJBL	10/25/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	14	52.71	52.71	602	AAA	2008 NJ Junior Olympics	NJ	NJBL	3/14/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	14	52.74	52.74	601	AAA	2008 NJ Junior Olympics	NJ	NJBL	3/14/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	14	55.21	55.21	493	AA	2008 NJ Princeton Invite	NJ	NJBL	1/19/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	14	55.21	55.21	493	AA	2008 NJ Princeton Invite	NJ	NJBL	1/19/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	14	55.56	55.56	478	AA	2008 NJ Junior Age Group Champs 	NJ	NJBL	2/15/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	14	56.07	56.07	457	A	2008 NJ TYR WINTERFEST 	NJ	NJBL	1/5/2008
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	13	56.84	56.84	517	A	2007 MR NYSA Holiday Madness	NJ	NJBL	12/7/2007
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	13	58.35	58.35	456	BB	2007 NJ Jersey Gators Invite	NJ	NJBL	11/25/2007
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	13	58.38	58.38	455	BB	2007 NJ HALL-O-WEEN 	NJ	NJBL	10/27/2007
+Taylor Adams	Wyckoff Ymca	2016	Cornell	100 FR	SCY	13	1:01.07	1:01.07	353	BB	2007 NJ 13/Over Silver Bronze	NJ	NJBL	3/10/2007
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	18	1:43.83	1:43.83	701	AAA	2012 MA AP NJ YMCA 13 & Over State Champs	NJ	WFY	3/9/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	18	1:44.34	1:44.34	688	AAA	2012 MA AP NJ YMCA 13 & Over State Champs	NJ	WFY	3/9/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	17	1:44.44	1:44.44	697	AAA	2011 NJ Holiday Classic XXV	NJ	WFY	12/9/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	17	1:45.52	1:45.52	670	AAA	2011 NJ Holiday Classic XXV	NJ	WFY	12/9/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	17	1:45.78	1:45.78	663	AAA	2011 MA AP NJ YMCA 13 & O States	NJ	WFY	3/11/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	17	1:46.13	1:46.13	654	AAA	2011 YMCA Nationals Short Cour	NJ	WFY	4/5/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	17	1:46.83	1:46.83	637	AAA	2011 MA AP NJ YMCA 13 & O States	NJ	WFY	3/11/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	18	1:47.30	1:47.30	615	AAA	2012 PV AP Y Winterfest Meet	NJ	WFY	1/13/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	18	1:47.30	1:47.30	615	AAA	2012 PV AP Y Winterfest Meet	NJ	WFY	1/13/2012
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	17	1:47.39r	1:47.39	624	AAA	2011 YMCA Nationals Short Cour	NJ	WFY	4/5/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	16	1:48.00	1:48.00	629	AAA	2010 MA AP NJ YMCA 13&O; State Champs	NJ	WFY	3/12/2010
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	17	1:48.03	1:48.03	608	AAA	2011 NJ Fall Festival of XCellence	NJ	WFY	11/18/2011
+Taylor Adams	Wyckoff Ymca	2016	Cornell	200 FR	SCY	16	1:48.50	1:48.50	617	AAA	2010 NJ HOLIDAY CLASSIC XXIV	NJ	WFY	12/10/2010

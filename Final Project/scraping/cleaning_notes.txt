@@ -1,0 +1,31 @@
+12/7/13
+Cleaning dataset, double checking multiple result list.  Removing those that are definitely correct.
+- CLS
+
+12/7/13
+Removed all duplicates. Additional corrections needed include adding swimmers not in the DB (or not found), and finding correct multiples.
+- CLS
+
+12/7/13
+Revised pmain.py scraper (cleaned and renamed to swimscrape.py)
+- CLS
+
+12/8/13
+Got more links for multiple result finds.  Delving into more problematic names that returned either no results or immediately returned wrong results.
+- CLS
+
+12/8/13
+Writing time to second converter.
+- CLS
+
+12/9/13
+Finished cleaning names with no results.
+- CLS
+
+12/9/13
+Rewrote scrape script to accomodate input with specified links for multiple find corrections.
+- CLS
+
+12/9/13
+Rescraped missing names, pasted them into the cleaned data.
+- CLS
